@@ -1,0 +1,7 @@
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\bin\Debug\UserLike.exe.config
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\bin\Debug\UserLike.exe
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\bin\Debug\UserLike.pdb
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\obj\Debug\UserLike.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\obj\Debug\UserLike.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\obj\Debug\UserLike.exe
+C:\Users\Swain's\Desktop\SoloProj\UserLike\UserLike\obj\Debug\UserLike.pdb
